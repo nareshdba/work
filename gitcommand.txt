@@ -3,4 +3,10 @@
 
 2. register user & mail id
   jit config --global user.name--> display the info or else add user
-  jit config --global user.mail --> display the info or elase 
+  jit config --global user.mail --> display the info or elase
+
+3.git add --> add files to staging dir
+  git commit --> add files which was existing to staging dir to repo dir
+  git status --> see the info of files
+  git log --> watch the changes  
+
