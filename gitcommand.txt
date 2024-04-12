@@ -1,0 +1,6 @@
+1. install the jit 
+ cd working dir and then jit init .
+
+2. register user & mail id
+  jit config --global user.name--> display the info or else add user
+  jit config --global user.mail --> display the info or elase 
